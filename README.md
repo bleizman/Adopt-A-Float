@@ -6,6 +6,6 @@ Mermaid page: http://geoweb.princeton.edu/people/simons/MERMAID.html \
 and on the Son-O-Mermaid page: \
 http://geoweb.princeton.edu/people/simons/Son-O-Mermaid.html
 
-See also the EarthScope-Oceans webpage:\ 
+See also the EarthScope-Oceans webpage: \
 http://www.earthscopeoceans.org
 
